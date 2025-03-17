@@ -13,15 +13,6 @@ Welcome to **Zentric Solutions**, a leading technology company committed to deli
 
 To empower businesses worldwide with advanced technology, ensuring innovation, efficiency, and sustainable growth.
 
-## 🎬 Introduction Video
-
-To learn more about how we can help your business thrive, watch our introduction video:
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=vYfjikWlHY8">
-    <img src="https://img.youtube.com/vi/vYfjikWlHY8/0.jpg" alt="Zentric Solutions Introduction Video" width="560" height="315">
-  </a>
-</p>
-
 ## 🎯 Why Choose Us?
 
 - ✅ 5+ years of industry experience
