@@ -1,6 +1,6 @@
-# Zentric Solutions
+![Zentric SOlutions cover](https://github.com/user-attachments/assets/cf4c5779-e0ec-48e6-b3ee-d2384575ab2a)
 
-Welcome to **Zentric Solutions**, a leading technology company committed to delivering innovative, high-quality solutions that drive business growth and efficiency. With over 5 years of experience and a team of 50+ skilled professionals, we empower businesses in the US and Europe with cutting-edge technology.
+Welcome to **Zentric Solutions**, a leading technology company committed to delivering innovative, high-quality solutions that drive business growth and efficiency. With over 5 years of experience and a team of 50+ skilled professionals, we empower US and European businesses with cutting-edge technology.
 
 ## 🚀 Our Expertise
 
@@ -29,8 +29,8 @@ To empower businesses worldwide with advanced technology, ensuring innovation, e
 
 ## 🤝 Connect with Us
 
-- **Facebook:** [facebook.com/zentricsolutionofficial](https://www.facebook.com/zentricsolutionofficial)
-- **Instagram:** [instagram.com/zentricsol](https://www.instagram.com/zentricsol/)
+- **Facebook:** [facebook.com/zentricsolutionofficial](https://www.facebook.com/zentricsolutions)
+- **Instagram:** [instagram.com/zentricsol](https://www.instagram.com/zentricsolutions/)
 - **LinkedIn:** [linkedin.com/company/zentricsolutions](https://www.linkedin.com/company/zentricsolutions)
 - **X (formerly Twitter):** [twitter.com/zentricsol](https://twitter.com/zentricsol)
 - **YouTube:** [youtube.com/@ZentricSolutions](https://www.youtube.com/@ZentricSolutions)
