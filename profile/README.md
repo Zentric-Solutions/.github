@@ -23,13 +23,13 @@ To empower businesses worldwide with advanced technology, ensuring innovation, e
 
 ## 📞 Contact Us
 
-- 📧 **Email:** [contact@zentricsolutions.com](mailto:contact@zentricsolutions.com)
+- 📧 **Email:** [szentric@gmail.com](mailto:szentric@gmail.com)
 - 🌐 **Website:** [www.zentricsolutions.com](https://www.zentricsolutions.com)
 - 📍 **Locations:** US | Europe
 
 ## 🤝 Connect with Us
 
-- **Facebook:** [facebook.com/zentricsolutionofficial](https://www.facebook.com/zentricsolutions)
+- **Facebook:** [facebook.com/zentricsolutionszs](https://www.facebook.com/zentricsolutionszs)
 - **Instagram:** [instagram.com/zentricsol](https://www.instagram.com/zentricsolutions/)
 - **LinkedIn:** [linkedin.com/company/zentricsolutions](https://www.linkedin.com/company/zentricsolutions)
 - **X (formerly Twitter):** [twitter.com/zentricsol](https://twitter.com/zentricsol)
